@@ -15,6 +15,6 @@
    ```
 * Fireup your **MySQL and PHP** in  XAMPP control Panel in your browser go to
   [http://localhost/univ_management/](http://localhost/univ_management/)
-* Default login Credentials :<br/>* User Id* : **admin** <br/> *Password* : **admin **
+* Default login Credentials :<br/>*User Id* : **admin** <br/> *Password* : **admin**
 * Voila you are done !! You must see this page as shown in the below image<br/>
   ![HOme Page looks like this](https://github.com/ynagarjuna1995/univ_management/blob/master/picture/Home_page.png)
