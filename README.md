@@ -7,7 +7,7 @@
 * **Database Setup:** <br/>
    Create a database name of your wish in your local development environment in **connections/connect.php** file
    replace your database name with **Project_Database_Name** in the file code looks as shown below
-   ```php
+   ```javascript
       <?php
         mysql_connect("localhost","root") or die("No Connection");
         mysql_select_db("Project_Database_Name") or die("No Database name");
